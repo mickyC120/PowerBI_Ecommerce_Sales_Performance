@@ -25,6 +25,16 @@ To design and deploy a **fully interactive Power BI dashboard** connected to SQL
 
 ---
 
+**Model Relationships:**
+- `calendar[Date]` → `ecommerce_data[Order Date]` *(One-to-Many)*
+- `us_codes[State]` → `ecommerce_data[customer_state]` *(One-to-Many)*
+
+This structured data model ensures consistent and efficient reporting by enabling advanced DAX calculations, filtering across hierarchies, and seamless cross-report interactions.
+
+<img width="655" height="499" alt="image" src="https://github.com/user-attachments/assets/775ace17-de17-481a-b5ef-816fd9ad5911" />
+
+🧠 *The design follows a **star schema** layout — optimizing both query performance and analytical flexibility.*
+
 ## 📊 Dashboard Features
 
 ### 🚀 Advanced KPI Banner
