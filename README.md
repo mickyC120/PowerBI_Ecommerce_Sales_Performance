@@ -1,6 +1,6 @@
 # 🛒 Power BI E-Commerce Sales Performance Dashboard
 
-## 🧠 Background & Business Context
+## Background & Business Context
 This project simulates the analytics function of an **E-Commerce company** seeking real-time visibility into sales and profit performance.  
 As part of a complete BI workflow, SQL was used to extract and prepare data from a relational database, while Power BI was leveraged to model, visualize, and deliver **actionable business insights**.
 
@@ -33,25 +33,25 @@ This structured data model ensures consistent and efficient reporting by enablin
 
 <img width="655" height="499" alt="image" src="https://github.com/user-attachments/assets/775ace17-de17-481a-b5ef-816fd9ad5911" />
 
-🧠 *The design follows a **star schema** layout — optimizing both query performance and analytical flexibility.*
+*The design follows a **star schema** layout — optimizing both query performance and analytical flexibility.*
 
 ## 📊 Dashboard Features
 
-### 🚀 Advanced KPI Banner
+### Advanced KPI Banner
 - Displays **YTD Sales**, **YTD Profit**, **YTD Quantity**, and **Profit Margin**.  
 - Each KPI includes **Year-over-Year (YoY) % change** with color-coded conditional formatting:
   - 🟩 **Green** for positive growth  
   - 🟥 **Red** for decline  
 - Includes **sparklines** for quick monthly performance visualization.
 
-### 🧩 Key Visualizations
+### Key Visualizations
 - **Sales by Category:** Compares current YTD vs. previous YTD with dynamic growth indicators.  
 - **Sales by State (Map):** Interactive U.S. map showing regional contribution by sales volume and color-coded by performance.  
 - **Top 5 / Bottom 5 Products:** Highlights best and worst performers, allowing quick focus on growth or recovery actions.  
 - **Sales by Region:** Donut chart showing regional breakdown (Central, East, South, West).  
 - **Sales by Shipping Type:** Distribution of revenue by shipping class for operational optimization.
 
-### 🎛️ Interactivity & Usability
+### Interactivity & Usability
 - **Dynamic Filters:** Filter by Customer Segment (Consumer, Corporate, Home Office).  
 - **Cross-Filtering:** Click any visual to automatically filter all others.  
 - **Year Selectors:** Switch between years for historical comparison.  
@@ -89,8 +89,7 @@ This structured data model ensures consistent and efficient reporting by enablin
 
 ---
 
-## 🧠 Author
-**Micheal Ani**  
-Strategic Business Intelligence & Growth Consultant  
-Transforming complex data into strategy, clarity, and measurable growth.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micheal--Ani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/micheal-ani-b76716291)
+###### 👤 About Me
+I'm **Micheal Ani**, a **Business Data Analyst & Business Intelligence**. I blend **business acumen** with **data expertise**.
+Transforming data into clarity, strategy, and measurable business growth.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ANI--MICHEAL-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/micheal-ani-b76716291)
